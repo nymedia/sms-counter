@@ -1,0 +1,13 @@
+
+{
+	"name": "danxexe/sms-counter",
+	"description": "Character counter for SMS messages.",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name":  "Danilo R. Gonçalves",
+			"homepage": "https://github.com/danxexe"
+		}
+	]
+}
